@@ -90,37 +90,27 @@
 
 ## 🔗 Live Projects
 
+## 🔗 Live Projects
+
+[![EduChampion](https://img.shields.io/badge/-EduChampion_AI_Framework-blueviolet?style=for-the-badge&logo=streamlit&logoColor=white)](https://educhamp.streamlit.app/)
+[![Amazon Sales Analytics](https://img.shields.io/badge/-Amazon_Sales_Analytics-orange?style=for-the-badge&logo=streamlit&logoColor=white)](https://amazonsalesinnobytes.streamlit.app/)
+[![Traveller Project](https://img.shields.io/badge/-Traveller_Project-teal?style=for-the-badge&logo=firebase&logoColor=white)](https://traveller-project-454619.web.app/)
 [![Fun Fact Generator](https://img.shields.io/badge/-Fun_Fact_Generator-blue?style=for-the-badge&logo=render&logoColor=white)](https://fun-fact.onrender.com)
-
 [![Facts Fun](https://img.shields.io/badge/-Facts_Fun-purple?style=for-the-badge&logo=render&logoColor=white)](https://facts-fun.onrender.com)
-
 [![General Knowledge Quiz](https://img.shields.io/badge/-General_Knowledge_Quiz-orange?style=for-the-badge&logo=render&logoColor=white)](https://testyour-general-knowledeg.onrender.com)
-
 [![Subsidy Awareness App](https://img.shields.io/badge/-Subsidy_Awareness_App-green?style=for-the-badge&logo=render&logoColor=white)](https://one-subsidy-awareness-app.onrender.com)
-
 [![Excess Food Sharing](https://img.shields.io/badge/-Food_Sharing_Platform-yellow?style=for-the-badge&logo=render&logoColor=black)](https://two-excess-food-sharing-platform.onrender.com)
-
 [![GoodHealthHub](https://img.shields.io/badge/-GoodHealthHub-red?style=for-the-badge&logo=render&logoColor=white)](https://three-goodhealthhub.onrender.com)
-
 [![LearningVersity](https://img.shields.io/badge/-LearningVersity-teal?style=for-the-badge&logo=render&logoColor=white)](https://four-learningversity.onrender.com)
-
 [![Sentiment Analysis](https://img.shields.io/badge/-Sentiment_Analysis-pink?style=for-the-badge&logo=render&logoColor=white)](https://sentiment-analysis-sfex.onrender.com)
-
 [![DesiGauTech](https://img.shields.io/badge/-DesiGauTech-darkgreen?style=for-the-badge&logo=render&logoColor=white)](https://desigautech.onrender.com)
-
 [![EmpowHer App](https://img.shields.io/badge/-EmpowHer_App-maroon?style=for-the-badge&logo=render&logoColor=white)](https://five-empowher.onrender.com)
-
 [![SOS NXTM](https://img.shields.io/badge/-SOS_NXTM-grey?style=for-the-badge&logo=render&logoColor=white)](https://sos-nxtm.onrender.com)
-
 [![Rock Paper Scissors](https://img.shields.io/badge/-Rock_Paper_Scissors_Game-cyan?style=for-the-badge&logo=render&logoColor=black)](https://rock-paper-scissors-game-webapp.onrender.com)
-
 [![Todo List App](https://img.shields.io/badge/-TodoMaster-darkgreen?style=for-the-badge&logo=render&logoColor=white)](https://two-mern-todo-app.onrender.com/)
-
 [![InternChance](https://img.shields.io/badge/-InternChance-pink?style=for-the-badge&logo=render&logoColor=white)](https://internchance.onrender.com)
-
-[![Rose Day](https://img.shields.io/badge/-Rose_Day%3A_Plant_A_Virtual_Rose-green?style=for-the-badge&logo=render&logoColor=white)](https://my-project-448309.web.app/)
-
-[![Propose Day](https://img.shields.io/badge/-Propose_Day-blue?style=for-the-badge&logo=render&logoColor=white)](http://propose-wall-2026-khurram.s3-website.eu-north-1.amazonaws.com)
+[![Rose Day](https://img.shields.io/badge/-Rose_Day%3A_Plant_A_Virtual_Rose-green?style=for-the-badge&logo=firebase&logoColor=white)](https://my-project-448309.web.app/)
+[![Propose Day](https://img.shields.io/badge/-Propose_Day-blue?style=for-the-badge&logo=amazonaws&logoColor=white)](http://propose-wall-2026-khurram.s3-website.eu-north-1.amazonaws.com)
 ---
 
 ## 📚 Research Work
