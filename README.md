@@ -90,8 +90,6 @@
 
 ## 🔗 Live Projects
 
-## 🔗 Live Projects
-
 [![EduChampion](https://img.shields.io/badge/-EduChampion_AI_Framework-blueviolet?style=for-the-badge&logo=streamlit&logoColor=white)](https://educhamp.streamlit.app/)
 [![Amazon Sales Analytics](https://img.shields.io/badge/-Amazon_Sales_Analytics-orange?style=for-the-badge&logo=streamlit&logoColor=white)](https://amazonsalesinnobytes.streamlit.app/)
 [![Traveller Project](https://img.shields.io/badge/-Traveller_Project-teal?style=for-the-badge&logo=firebase&logoColor=white)](https://traveller-project-454619.web.app/)
