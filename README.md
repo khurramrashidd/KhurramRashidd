@@ -70,7 +70,22 @@
 </p>
 
 ---
+## 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KhurramRashidd&theme=tokyonight&hide_border=true"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=khurramrashidd&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khurramrashidd&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&count_private=true"/>
+</p>
+
+## 📊 Overall Language Usage
+- 🟨 JavaScript — XX%
+- 🐍 Python — XX%
+- 🌐 HTML — XX%
+- 🎨 CSS — XX%
+---
 ## 🏗️ Notable Projects
 
 - 🎓 **EduChampion – Responsible AI Credential Analytics Framework** (Python, ML, LSTM, LIME, CodeCarbon, Streamlit)  
