@@ -73,18 +73,20 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KhurramRashidd&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KhurramRashidd&theme=tokyonight&hide_border=true" alt="streak-stats"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=khurramrashidd&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=khurramrashidd&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khurramrashidd&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khurramrashidd&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&count_private=true" alt="top-langs"/>
 </p>
 
-## 📊 Overall Language Usage
-- 🟨 JavaScript — XX%
-- 🐍 Python — XX%
-- 🌐 HTML — XX%
-- 🎨 CSS — XX%
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khurramrashidd&theme=tokyo-night" alt="Activity Graph" />
+</p>
 ---
 ## 🏗️ Notable Projects
 
