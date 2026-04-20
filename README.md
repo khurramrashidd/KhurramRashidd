@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech CSE student at Amity University, Mumbai (2023–2027)
-- 🌐 **Google Student Ambassador**
+- 🌐 **Google Student Ambassador (2025-Present)**
 - 🌐 On-Campus Lead at **Google Developer Groups (GDG)** (2024-25)
 - 🏅 Certified: AI/ML Expert | Data Analyst | Python | Cybersecurity | IoT | Front-End Dev | Digital Marketing with AI
 - 📚 110+ Projects: AI/ML, Cybersecurity tools, IoT systems, WebApps, Streamlit & Flask-based applications
