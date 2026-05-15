@@ -3,7 +3,7 @@
   <b>
     B.Tech CSE @ Amity University, Mumbai | 
     Founder & CEO @ <a href="https://ibtidaatech.com/" target="_blank">Ibtidaa Tech</a> | 
-    Full Stack, AI/ML Expert | Data Analyst | Researcher | Cybersecurity, IoT & SDG-Focused Developer
+    Full Stack, AI/ML Expert | Data Analyst | Researcher | Cloud Engineer |Cybersecurity, IoT & SDG-Focused Developer
   </b>
 </p>
 
