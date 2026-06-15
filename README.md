@@ -138,7 +138,8 @@
 - 🤖 **AI for Impact APAC Hackathon**  
 - 🪐 **Mission Mars Hackathon**  
 - 🏫 **Discovery School Super League** *(During School Years)*  
-- 💡 **CSI Ideathon**  
+- 💡 **CSI Ideathon**
+- 🏆 **HackPrix Season 3 (2026)**  
 
 ---
 
