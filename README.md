@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khurram Rashid</h1>  
+<h1 align="center">Hi 👋, I'm Khurram Rashid</h1>  <a href="https://khurramrashid-portfolio.web.app/" target="_blank">Portfolio</a>
 <p align="center"> 
   <b>
     B.Tech CSE @ Amity University, Mumbai | 
