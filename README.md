@@ -188,7 +188,7 @@
 
 **Organized**
 - 🏆 **Nirman Hackathon** — Student Coordinator (two on-campus editions)
-- 🤝 **Inter-college Hackathon with Sanjay Ghodawat University** — as GDG On-Campus Lead
+- 🤝 **National Level Hackathon (Prabal) with GDG on Campus, Sanjay Ghodawat University** — as GDG On-Campus Lead
 
 **Participated**
 - 🛰️ NASA International Space Apps Challenge 2025
