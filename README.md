@@ -163,6 +163,7 @@
 [![InternChance](https://img.shields.io/badge/-InternChance-pink?style=for-the-badge&logo=render&logoColor=white)](https://internchance.onrender.com)
 [![Rose Day](https://img.shields.io/badge/-Rose_Day%3A_Plant_A_Virtual_Rose-green?style=for-the-badge&logo=firebase&logoColor=white)](https://my-project-448309.web.app/)
 [![Propose Day](https://img.shields.io/badge/-Propose_Day-blue?style=for-the-badge&logo=amazonaws&logoColor=white)](http://propose-wall-2026-khurram.s3-website.eu-north-1.amazonaws.com)
+[![Omni-Signal Behavioral Vault](https://img.shields.io/badge/-Rock_Paper_Scissors_Game-cyan?style=for-the-badge&logo=render&logoColor=black)](https://osbv-frontend-umber.vercel.app/)
 
 ---
 
