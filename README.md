@@ -165,7 +165,7 @@
 [![Propose Day](https://img.shields.io/badge/-Propose_Day-blue?style=for-the-badge&logo=amazonaws&logoColor=white)](http://propose-wall-2026-khurram.s3-website.eu-north-1.amazonaws.com)
 [![Omni Signal Behavioral Vault](https://img.shields.io/badge/-Omni_Signal_Behavioral_Vault-red?style=for-the-badge&logo=render&logoColor=white)](https://osbv-frontend-umber.vercel.app/)
 [![Multi-Agent Cryptographic Key Generator](https://img.shields.io/badge/-Multi--Agent_Cryptographic_Key_Generator-purple?style=for-the-badge&logo=firebase&logoColor=white)](https://cryptominiproject.web.app/)
-[![Sustainable Product Customization App Engine](https://img.shields.io/badge/-Sustainable Product Customization_App_Engine-brightgreen?style=for-the-badge&logo=streamlit&logoColor=white)](https://sustainable-customization-app-engine.streamlit.app/)
+[![Sustainable Product Customization App Engine](https://img.shields.io/badge/-Sustainable_Product_Customization_App_Engine-brightgreen?style=for-the-badge&logo=streamlit&logoColor=white)](https://sustainable-customization-app-engine.streamlit.app/)
 
 ---
 
