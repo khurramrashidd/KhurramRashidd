@@ -144,7 +144,7 @@
 ## 📱 Android App
 
 - 🧠 **GK APP – General Knowledge Quiz & Learning App** (Flutter, Firebase) — Topic-wise GK quizzes, interactive questions, and reel-style question browsing
-- 📥 **[Download GK APP v1.1.0 (APK)](https://github.com/khurramrashidd/GK_APP/releases/download/v1.1.0/app-release.apk)**
+- 📥 **[Download GK APP v1.3.0 (APK)](https://github.com/khurramrashidd/GK_APP/releases/download/v1.1.0/app-release.apk)**
 
 ---
 ## 🔗 Live Projects
