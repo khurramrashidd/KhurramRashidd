@@ -141,7 +141,12 @@
 - 🌐 **MERN Stack Blog Website**
 
 ---
+## 📱 Android App
 
+- 🧠 **GK APP – General Knowledge Quiz & Learning App** (Flutter, Firebase) — Topic-wise GK quizzes, interactive questions, and reel-style question browsing
+- 📥 **[Download GK APP v1.1.0 (APK)](https://github.com/khurramrashidd/GK_APP/releases/download/v1.1.0/app-release.apk)**
+
+---
 ## 🔗 Live Projects
 
 [![EduChampion](https://img.shields.io/badge/-EduChampion_AI_Framework-blueviolet?style=for-the-badge&logo=streamlit&logoColor=white)](https://educhamp.streamlit.app/)
